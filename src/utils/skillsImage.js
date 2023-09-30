@@ -74,6 +74,8 @@ import unity from '../assets/svg/skills/unity.svg'
 import wolframalpha from '../assets/svg/skills/wolframalpha.svg'
 
 import canva from '../assets/svg/skills/canva.svg'
+import solidity from '../assets/svg/skills/solidity.svg'
+import web3 from '../assets/svg/skills/web3.svg'
 
 
 export const skillsImage = (skill) => {
@@ -225,6 +227,10 @@ export const skillsImage = (skill) => {
             return unity;
         case 'wolframalpha':
             return wolframalpha;
+        case 'web3':
+            return web3;
+        case 'solidity':
+            return solidity;
         case 'canva':
             return canva;
         default:
