@@ -1,9 +1,15 @@
 import resume from '../assets/pdf/resume.pdf'
+import mainPhoto from '../assets/png/myphoto.png'
 
 export const headerData = {
-    name: 'Jane Doe',
-    title: "Web Developer",
-    desciption:"There wasn't a bird in the sky, but that was not what caught her attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. She knew what was coming and she hoped she was prepared. ",
-    image: 'https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/landingImg.png',
+    name: 'Alex Lu',
+    title: "Full stack web and blockchain engineer",
+    desciption:`Alex Lu is a highly skilled senior engineer with over 9 years
+    of professional experience in developing web and decentralized
+    applications. He has in-depth knowledge of software development
+    principles, design patterns, and best practices and excels at bridging
+    the gap between design and engineering, enabling teams to establish
+    a design language that results in high-quality user experiences.`,
+    image: mainPhoto,
     resumePdf: resume
 }

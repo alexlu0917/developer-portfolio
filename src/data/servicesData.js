@@ -14,12 +14,12 @@ export const servicesData = [
     // },
     {
         id: 2,
-        title: 'Content Writing',
+        title: 'Frontend development',
         icon: <BiPencil /> 
     },
     {
         id: 3,
-        title: 'Email Marketing',
+        title: 'Backend development',
         icon: <AiOutlineMail />
     },
     // {
@@ -35,12 +35,12 @@ export const servicesData = [
 
     {
         id: 6,
-        title: 'Web Design',
+        title: 'Dev ops',
         icon: <BsCodeSlash />
     },
     {
         id: 7,
-        title: 'Photography',
+        title: 'Blockchain Infra',
         icon: <FaCameraRetro />
     },
     // {
@@ -50,7 +50,7 @@ export const servicesData = [
     // }, 
     {
         id: 9,
-        title: 'Video Editing',
+        title: 'Dapp development',
         icon: <FaVideo />
     },
     // {
@@ -60,7 +60,7 @@ export const servicesData = [
     // },
     {
         id: 11,
-        title: 'Ebook Writing',
+        title: 'E-commerce Support',
         icon: <FaTabletAlt />
     },
     // {
